@@ -10,6 +10,7 @@ namespace ConsoleApp1
 
 
     {
+
         static int divide(int a, int b)
         {
             int c = a / b;
@@ -20,9 +21,14 @@ namespace ConsoleApp1
             int c = a + b;
             return (c);
         }
-     static int minus (int a, int b)
+        static int minus(int a, int b)
         {
             int c = a - b;
+            return (c);
+        }
+        static int mult (int a, int b )
+        {
+            int c = a * b;
 
             return (c);
         }
