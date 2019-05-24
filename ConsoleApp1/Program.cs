@@ -10,15 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            
-=======
+
             string a;
             a = Console.ReadLine();
             string b;
             b = Console.ReadLine();
 
->>>>>>> divide
+
         }
     }
 }
