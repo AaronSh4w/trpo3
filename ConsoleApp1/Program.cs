@@ -34,6 +34,7 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
+            int c = minus(mult(plus(divide(1, 2), 3),4),5); 
 
         }
     }
