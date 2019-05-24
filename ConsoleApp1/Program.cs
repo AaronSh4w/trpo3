@@ -11,12 +11,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            string a;
-            a = Console.ReadLine();
-            string b;
-            b = Console.ReadLine();
-
-
         }
     }
 }
